@@ -1,6 +1,5 @@
 #rootPane{
-    /*-fx-background-image: url("backgroung.jpg");*/
-	-fx-background-color: linear-gradient(#2A5058, #61a2b1);
+    /*-fx-background-image: url(."backgroung.jpg");*/
+	-fx-background-color: linear-gradient(#2A5058, #ffa2b1);
     
 }
-
