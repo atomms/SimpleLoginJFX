@@ -54,7 +54,7 @@
                         <Font size="11.0" />
                      </font>
                   </Label>
-                  <JFXTextField focusColor="#d10606" labelFloat="true" promptText="Username" />
+                  <JFXTextField focusColor="#d10606" labelFloat="true" promptText="Username" unFocusColor="BLACK" />
                   <JFXPasswordField focusColor="#fa0707" labelFloat="true" promptText="Password" />
                   <JFXButton alignment="CENTER" buttonType="RAISED" prefHeight="26.0" prefWidth="900.0" ripplerFill="WHITE" style="-fx-background-color: #fb0000; -fx-background-radius: 5px;" text="Get started" textFill="WHITE">
                      <cursor>
